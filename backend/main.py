@@ -1,0 +1,1 @@
+print("A-Zyra is starting...")
